@@ -1,0 +1,2 @@
+Use only add commit add and push to show the all the edits in the git as well 
+i.e.,  It already is linked to that 
